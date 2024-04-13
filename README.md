@@ -8,6 +8,7 @@ Det oppfordres til å benytte Python, men det er lagd et spor for eventuelle .NE
 Hint: 
 - Dette er et flerklasse klassifiseringsproblem. Les mer om det [her](https://scikit-learn.org/stable/modules/multiclass.html).
 - W3 schools kan hjelpe deg med pandas: https://www.w3schools.com/python/pandas/default.asp
+- [ML.NET dokumentason](https://learn.microsoft.com/en-gb/dotnet/machine-learning/)
 
 
 ## Steg for å løse oppgaven:
